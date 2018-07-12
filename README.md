@@ -19,4 +19,4 @@ Esempio:
 
 D: \> DecodeMorse  ".... . -.--   .--- ..- -.. ."
 
-HEY JUDE
+Your Morse code decode is: HEY JUDE
