@@ -17,6 +17,6 @@ Questa applicazione console prende in ingresso il codice morse inserito restitui
 
 Esempio:
 
-D: \> DecodeMorse  .... . -.--   .--- ..- -.. . 
+D: \> DecodeMorse  ".... . -.--   .--- ..- -.. ."
 
 HEY JUDE
