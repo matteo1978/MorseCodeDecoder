@@ -49,22 +49,20 @@ namespace DecodeMorse
         
         static void Main(string[] args)
         {
-            GetUserInput();
-        }
-                
-        /// <summary>
-        /// Richiedo il codice Morse da decodificare
-        /// </summary>
-        public static void GetUserInput()
-        {
-            string input;
-            Console.WriteLine("Insert Morse code:");
-            input = Console.ReadLine();
-            input = input.Trim();
+            string input = "";
+            if (args == null || args.Length == 0)
+            {
+                Console.WriteLine("Insert Morse code:");
+                input = Console.ReadLine();
+                input = input.Trim();
+            }
+            else
+            {
+                input = args[0];
+            }
             Console.WriteLine("Your Morse code decode is: " + Translate(input));
-            GetUserInput();            
         }
-
+        
         /// <summary>
         /// Decodificare il codice Morse
         /// </summary>
