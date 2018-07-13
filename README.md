@@ -13,7 +13,7 @@ Il codice Morse si basa su cinque semplici stadi : il punto, la linea, l'interva
 Il messaggio Morse viene trasmesso inviando un  impulso elettrico  lungo un filo che collegava le stazioni trasmittente e ricevente, ossia  mediante l'uso del telegrafo (inventato dallo stesso Morse). Agli inizi del XX secolo , al telegrafo a filo di Morse venne affiancato quello senza fili grazie all'invenzione di Guglielmo Marconi: la radio .
 
 
-## Questa applicazione console prende in ingresso il codice morse inserito restituisca una stringa decodificata leggibile.
+## Questa applicazione console prende in ingresso il codice morse inserito e restituisce una stringa decodificata leggibile.
 
 Esempio:
 
