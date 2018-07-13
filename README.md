@@ -1,6 +1,8 @@
 # MorseCodeDecoder
 Decodifica Codice Morse
 
+L'applicazione è stata sviluppata con Visula Studio 2017 - Framework 4.7
+
 Un po' di storia:
 
 l codice Morse è un sistema per trasmettere lettere, segni di punteggiatura e numeri per mezzo di codici a intermittenza . Questo alfabeto venne inventato nel 1835 dall'americano Samuel Morse (da cui prende il nome) e venne perfezionato da uno dei suoi collaboratori : Alfred Vail.
